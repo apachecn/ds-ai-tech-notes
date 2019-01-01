@@ -20,7 +20,7 @@ function processTex(md) {
         var img = request('get', url).getBody()
         
         // replace_all
-        md = md.split(rm[0]).join(`![${tex}](../Images/tex-${tex_md5}.gif)`)
+        md = md.split(rm[0]).join(`![${tex}](../img/tex-${tex_md5}.gif)`)
         fs.writeFileSync(`${img_dir}/tex-${tex_md5}.gif`, img)
         
         console.log(tex_md5)

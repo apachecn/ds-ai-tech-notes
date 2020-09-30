@@ -21,6 +21,14 @@
 
 ## 下载
 
+### Docker
+
+```
+docker pull apachecn0/ds-ai-tech-notes
+docker run -tid -p <port>:80 apachecn0/ds-ai-tech-notes
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### PYPI
 
 ```

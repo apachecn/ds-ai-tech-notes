@@ -14,6 +14,7 @@
 <!-- break -->
 
 + [在线阅读](https://dsai-notes.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/ds-ai-tech-notes/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/ds-ai-tech-notes)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/ds-ai-tech-notes)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/ds-ai-tech-notes)
